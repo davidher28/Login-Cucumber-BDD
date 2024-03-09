@@ -13,5 +13,5 @@ import static io.cucumber.junit.platform.engine.Constants.GLUE_PROPERTY_NAME;
 @SelectClasspathResource("io/cucumber/login")
 @ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "pretty")
 @ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "io.cucumber.login")
-public class RunCucumberTest {
+public class LoginCucumberTest {
 }
