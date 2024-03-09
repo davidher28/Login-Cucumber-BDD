@@ -29,7 +29,6 @@ public class StepDefinitions {
 
     @Then("I should see an error message")
     public void i_should_see_an_error_message() {
-        // You can add additional logic here to check for error message visibility
         assert !loginAction.isLoggedIn();
     }
 }
