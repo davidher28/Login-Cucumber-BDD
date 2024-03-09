@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cucumber</groupId>
-    <artifactId>cucumber-lasalle-cantame</artifactId>
+    <artifactId>David-H-Cucumber-Login</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
-    <name>Cantame</name>
+    <name>Login</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
