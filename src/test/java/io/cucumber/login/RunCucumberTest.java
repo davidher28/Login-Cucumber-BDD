@@ -1,4 +1,4 @@
-package io.cucumber.skeleton;
+package io.cucumber.login;
 
 import org.junit.platform.suite.api.ConfigurationParameter;
 import org.junit.platform.suite.api.IncludeEngines;
